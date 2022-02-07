@@ -48,24 +48,28 @@ https://petstore.swagger.io/
 http://www.dneonline.com/calculator.asmx?WSDL   
 https://jar-download.com/?search_box=jxl    
 
+**Appium**
+Download link for dummy app:    
+https://github.com/appium/appium/blob/master/sample-code/apps/ApiDemos-debug.apk     
 
 
-Assignment 3: SOAP UI 
+**Assignment 3: SOAP UI**     
 
-http://thetestingworldapi.com/Help  
+http://thetestingworldapi.com/Help      
 
-studentsDetails 
-API	Description 
-GET api/studentsDetails:	Read All Student Info 
-GET api/studentsDetails/{id}:	Read Specific Student info  
-PUT api/studentsDetails/{id}:	Update individual Student info  
-POST api/studentsDetails:	Create a record for new Student 
-DELETE api/studentsDetails/{id}:	Delete the created Student  
+  studentsDetails     
+  API	Description     
+  GET api/studentsDetails:	Read All Student Info     
+  GET api/studentsDetails/{id}:	Read Specific Student info      
+  PUT api/studentsDetails/{id}:	Update individual Student info      
+  POST api/studentsDetails:	Create a record for new Student     
+  DELETE api/studentsDetails/{id}:	Delete the created Student      
 
-Design E2E flow:  
+Design E2E flow:      
 
 1. Using post create an student 
 2. Read the newly created student info  
 3. Update Student info using PUT  
 4. Read again the updated info  
 5. Delete the student  
+
