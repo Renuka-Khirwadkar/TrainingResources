@@ -50,7 +50,9 @@ https://jar-download.com/?search_box=jxl
 
 **Appium**
 Download link for dummy app:    
-https://github.com/appium/appium/blob/master/sample-code/apps/ApiDemos-debug.apk     
+https://github.com/appium/appium/blob/master/sample-code/apps/ApiDemos-debug.apk  
+https://stackoverflow.com/questions/49005791/how-to-check-if-intel-virtualization-is-enabled-without-going-to-bios-in-windows#:~:text=2%20Answers&text=If%20you%20have%20Windows%2010,is%20currently%20enabled%20in%20BIOS.
+
 
 
 **Assignment 3: SOAP UI**     
