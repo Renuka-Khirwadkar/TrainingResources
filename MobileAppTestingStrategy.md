@@ -103,3 +103,26 @@ Once you get to production monitoring at the top of the pyramid, testing must be
 It is also critical to apply real user simulation to your tests. Testing with conditions such as conflicting apps, call/text interruptions, network throttling, network latency, and more enable you to see how your app will hold up out in the world under varying circumstances.
 
 ----------------------------
+
+**Cloud mobile testing: The essentials**
+
+The definition of cloud mobile testing is pretty straightforward: it refers to running software tests for mobile applications in the cloud, rather than in an on-premises environment. The mobile apps can be tested in the cloud using simulated or emulated mobile environments (meaning virtual software environments that are designed to mimic the conditions of a mobile device) or on actual mobile devices that are hosted in the cloud.
+
+***There are multiple benefits of cloud-based testing:
+
+It eliminates the need to set up and maintain mobile testing devices on-premises.  
+Testing teams can run as many tests as they want at the same time without being limited by the capacity of local test infrastructure.  
+You can test on multiple types of mobile devices at the same time, instead of having to test on one device and then another.  
+In cases where mobile testing on real devices is required, teams typically have instant access to hundreds of different types of mobile devices through the cloud, without having to purchase them themselves.  
+From a cost perspective, cloud mobile testing can be more efficient than setting up and maintaining on-premises mobile testing infrastructure.  
+
+
+***How to perform cloud mobile testing  
+
+Getting started with cloud mobile testing is easy. The first step is to find a cloud that supports whichever types of test frameworks you want to use to run tests (like Appium, a popular open source mobile testing framework).
+
+You should also ensure that the cloud supports the specific types of mobile environments you need to test against. It’s a safe bet that all major mobile testing clouds will support popular Android and iOS devices, but if deploy your app to other types of mobile devices, you may have special testing requirements not covered by all cloud mobile testing services.
+
+The major public clouds, like AWS, Azure, Sauce Labs offer cloud-based mobile testing services. 
+
+---------------
