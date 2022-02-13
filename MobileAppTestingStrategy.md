@@ -59,7 +59,7 @@ Localization testing involves testing the application for location-based paramet
 There are a plethora of devices in existence now. To make sure that your app is working fine on all of them you need to check the app’s performance, functionality, and UI on real devices.It’s a challenging as well as a daunting task. And there are thousands of devices with varied screen size out there. So in this situation depending on emulators has been seen as a common practice.But it’s true that emulators are not an absolute solution. So the perfect solution here would be to test the app in screen size that’s commonly used and then for other options use emulators.
 
 -----------------------------------------------------------------------------------------
-**Mobile APP Test Pyramid
+**Mobile APP Test Pyramid**
 
 <img src="https://marvel-b1-cdn.bc0a.com/f00000000131077/www.perfecto.io/sites/default/files/image/2021-05/image-testing-pyramid-purple_0.jpg" width="800" height="600">
 
@@ -98,6 +98,8 @@ The top layer of the pyramid is for UI and exploratory tests. These tests genera
 ***Which Devices To Use***
 Once you get to production monitoring at the top of the pyramid, testing must be done on real devices.
 
-*Why?* End-to-end testing, as well as exploratory testing, requires real devices to more closely mimic the app on a user’s device — because real users report defects on real devices, not on virtual ones.
+***Why?*** End-to-end testing, as well as exploratory testing, requires real devices to more closely mimic the app on a user’s device — because real users report defects on real devices, not on virtual ones.
 
 It is also critical to apply real user simulation to your tests. Testing with conditions such as conflicting apps, call/text interruptions, network throttling, network latency, and more enable you to see how your app will hold up out in the world under varying circumstances.
+
+----------------------------
