@@ -98,6 +98,6 @@ The top layer of the pyramid is for UI and exploratory tests. These tests genera
 ***Which Devices To Use***
 Once you get to production monitoring at the top of the pyramid, testing must be done on real devices.
 
-*Why? End-to-end testing, as well as exploratory testing, requires real devices to more closely mimic the app on a user’s device — because real users report defects on real devices, not on virtual ones.
+*Why?* End-to-end testing, as well as exploratory testing, requires real devices to more closely mimic the app on a user’s device — because real users report defects on real devices, not on virtual ones.
 
 It is also critical to apply real user simulation to your tests. Testing with conditions such as conflicting apps, call/text interruptions, network throttling, network latency, and more enable you to see how your app will hold up out in the world under varying circumstances.
