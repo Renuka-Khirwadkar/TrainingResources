@@ -56,6 +56,13 @@ While this may not be needed for all apps, if needed it would be good to have in
 Localization testing involves testing the application for location-based parameters like language, maps, and any other things related to the locations. These are sometimes legal requirements also for some locations.
 
 ***Strategy no: 10 Device Testing:*** 
-There are a plethora of devices in existence now. To make sure that your app is working fine on all of them you need to check the app’s performance, functionality, and UI on real devices.
-It’s a challenging as well as a daunting task. And there are thousands of devices with varied screen size out there. So in this situation depending on emulators has been seen as a common practice.
-But it’s true that emulators are not an absolute solution. So the perfect solution here would be to test the app in screen size that’s commonly used and then for other options use emulators.
+There are a plethora of devices in existence now. To make sure that your app is working fine on all of them you need to check the app’s performance, functionality, and UI on real devices.It’s a challenging as well as a daunting task. And there are thousands of devices with varied screen size out there. So in this situation depending on emulators has been seen as a common practice.But it’s true that emulators are not an absolute solution. So the perfect solution here would be to test the app in screen size that’s commonly used and then for other options use emulators.
+
+-----------------------------------------------------------------------------------------
+**Mobile APP Test Pyramid
+
+<img src="https://marvel-b1-cdn.bc0a.com/f00000000131077/www.perfecto.io/sites/default/files/image/2021-05/image-testing-pyramid-purple_0.jpg" width="800" height="600">
+
+~~~
+The testing pyramid is a concept that groups software tests into three different categories. This helps developers and QA professionals ensure higher quality, reduce the time it takes to find the root cause of bugs, and build a more reliable test suite. 
+~~~
