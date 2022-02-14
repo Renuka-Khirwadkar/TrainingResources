@@ -140,3 +140,37 @@ Design E2E flow:
 4. Read again the updated info  
 5. Delete the student  
 
+**Assignment-04**
+Appium+TestNG assignment.
+Please automate the following scenarios using the sample Sauce Lab app.
+https://github.com/saucelabs/sample-app-mobile/releases/download/2.7.1/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+~~~
+For Sauce Lab Site: https://www.saucedemo.com   
+ @scenario1   
+  Scenario: To verify adding multiple options in cart and checkout    
+    Given user is on saucedemo homepage   
+    And user logged in using correct credential   
+      | username      | password     |    
+      | standard_user | secret_sauce |    
+    And user adds required item to cart   
+    And user proceeds to checkout   
+    And user enters the following details for checkout    
+      | FirstName | LastName | PostalCode |   
+      | abc       | def      |     400087 |   
+    When user confirm checkout    
+    Then user verify final confirmation messagge    
+      
+  @scenario2    
+  Scenario: To verify adding removing then adding and checkout      
+    Given user is on saucedemo homepage   
+    And user logged in using correct credential     
+      | username      | password     |    
+      | standard_user | secret_sauce |    
+    And user adds one item and then remove that item to go back   
+    And user adds required item to cart   
+    And user proceeds to checkout   
+    And user enters the following details for checkout    
+      | FirstName | LastName | PostalCode |   
+      | abc       | def      |     400087 |   
+    When user confirm checkout    
+    Then user verify final confirmation message  
