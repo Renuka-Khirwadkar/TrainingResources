@@ -42,9 +42,9 @@ https://github.com/vdespa/quick-introduction-to-postman/blob/main/simple-tool-re
 https://learning.postman.com/docs/writing-scripts/script-references/test-examples/    
 
 **SOA**
-https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec
-https://en.wikipedia.org/wiki/Service-oriented_architecture
-https://www.geeksforgeeks.org/service-oriented-architecture/
+https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec  
+https://en.wikipedia.org/wiki/Service-oriented_architecture  
+https://www.geeksforgeeks.org/service-oriented-architecture/  
 
 **SOUPUI**      
 https://www.soapui.org/docs/scripting-and-properties/tips-tricks/   
