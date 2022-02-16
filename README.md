@@ -41,7 +41,8 @@ https://testng.org/doc/documentation-main.html#introduction
 https://github.com/vdespa/quick-introduction-to-postman/blob/main/simple-tool-rental-api.md#Get-a-single-order    
 https://learning.postman.com/docs/writing-scripts/script-references/test-examples/    
 
-**SOA**
+**SOA**  
+https://www.youtube.com/watch?v=7s_S5Hkm7z0
 https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec  
 https://en.wikipedia.org/wiki/Service-oriented_architecture  
 https://www.geeksforgeeks.org/service-oriented-architecture/  
