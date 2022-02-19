@@ -19,6 +19,8 @@ Appium Inspector
 **Git**   
 Git Bash exe  
 
+***********************************************************************
+
 **Usefull Links**    
 Selenium Demo Sites   
 https://demo.guru99.com/test/newtours/    
